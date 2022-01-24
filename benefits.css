@@ -1,0 +1,29 @@
+body{
+    background-color: blanchedalmond;
+}
+.a:hover{
+    color: goldenrod;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.b{
+    color:palevioletred;
+    font-family: cursive;
+    text-align: justify;
+    font-size: medium;
+    font-weight: normal;
+}
+h3{
+    color: brown;
+    font-weight: bold;
+    font-style: italic;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+#bb:link{
+    color:blue;
+}
+#bb:visited{
+    color: red;
+}
